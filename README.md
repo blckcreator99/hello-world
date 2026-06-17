@@ -13,3 +13,7 @@ Clone the repository:
 ```
 git clone https://github.com/blckcreator99/hello-world.git
 ```
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
